@@ -1,0 +1,27 @@
+
+/* Global styles for the document */
+body{
+    background-color: #ffffff;
+    color: #666666;
+}
+/* Header styles */
+header{
+        background-color: #000033;
+        color: #ffffff;
+}
+/* Remove space between header and navigation */
+h1 {
+  margin-bottom: 0;
+}
+/* Navigation styles */
+nav{
+    background-color: #90C7E3;
+}
+/* Heading level 2 styles */
+h2{
+    color:#000033;
+}
+/* Resort class styles */
+.resort{
+    color:#5C7FA3
+}
